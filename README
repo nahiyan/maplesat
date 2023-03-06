@@ -1,6 +1,6 @@
 Latest news on MapleSAT can be found here: https://sites.google.com/a/gsd.uwaterloo.ca/maplesat/maplesat
 
-You can cite our work in Latex with the following .bib
+You can cite our work in LaTeX with the following .bib
 
 @inproceedings{DBLP:conf/sat/LiangGPC16,
   author    = {Jia Hui Liang and
